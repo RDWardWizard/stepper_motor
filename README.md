@@ -13,3 +13,4 @@ V- | GND (power-side)
 TB6560AH! | NEMA17 4.2kgcm stepper motor:
 A+ A- | coil-1
 B+ B- | coil-2
+All the switches in the 10-switch side switchbar have been put in on position.
